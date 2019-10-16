@@ -3,6 +3,7 @@
 * Cats are cool
 * Dogs are cooler
 * Puppies are extremely cool.
+* Kaia is the cutest puppy in the world follow: @kaiatheshibainu
 
 ## My Strong Opinion(s)
 
