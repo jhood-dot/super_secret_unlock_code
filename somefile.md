@@ -11,4 +11,5 @@
 
 ## The Super Secret
 
-* Jk jk, not that easy!
+* `FS{unlock_windows_i_2468}`
+* Always check out all da branches!
